@@ -166,16 +166,31 @@ p {
   #title {
     text-align: center;
   }
-  .big-heading{
-    font-size: 3rem;
+  .big-heading {
+    font-size: 3.5rem;
   }
 
   .title-image {
     position: static;
     transform: rotate(0);
   }
-  .testimonial-text{
+  .testimonial-text {
     font-size: 2rem;
     font-weight: lighter;
+  }
+  p {
+    font-size: 1.5rem;
+  }
+  .pricing-text {
+    font-size: 4.5;
+  }
+  .nav-link {
+    font-size: 3rem;
+  }
+  .navbar-brand {
+    font-size: 3rem;
+  }
+  .navbar {
+    padding: 0 0 3rem;
   }
 }
