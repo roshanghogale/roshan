@@ -166,9 +166,16 @@ p {
   #title {
     text-align: center;
   }
+  .big-heading{
+    font-size: 3rem;
+  }
 
   .title-image {
     position: static;
     transform: rotate(0);
+  }
+  .testimonial-text{
+    font-size: 2rem;
+    font-weight: lighter;
   }
 }
